@@ -1,9 +1,14 @@
 # TrNER
 Turkish Name Entitiy Recognition with PolyGlot
+
 1-Install Package
+
 pip install polyglot
+
 pip install pyicu
+
 !pip install -U pycld2
+
 !pip install Morfessor
 
 2-Import Package
